@@ -1,4 +1,3 @@
-
 var aa=0,vketik;
   function fmketik1(){
   wallpaper.style="transform: scale(1);";
